@@ -2,9 +2,11 @@
 
 
 ### 👋 About Me
-I'm an Electronic / Systems Engineer (EIT) with a Master's in Advanced Electronic Systems Engineering with hands-on expertise in testing, diagnostics, and reliability validation of electronic systems. Experienced in aerospace-grade hardware testing and field service engineering with a strong foundation in precision measurement, schematic interpretation, and process optimization. Currently expanding software capabilities to bridge hardware expertise with embedded systems development.
+I’m an Electronic / Systems Engineer (EIT) with a Master’s in Advanced Electronic Systems Engineering, bringing hands-on experience in testing, diagnostics, and reliability validation of electronic systems. I’ve worked with aerospace-grade hardware in test and field service environments, supporting fault isolation, corrective actions, and system reliability improvements.
 
----
+I have a strong foundation in precision measurement, schematic interpretation, and process optimization, with practical experience using oscilloscopes, spectrum analyzers, and automated test setups. My technical toolkit includes Python, MATLAB, and embedded hardware platforms, with exposure to low-level interfaces such as SPI, I²C, UART, and CAN.
+
+Currently, I’m expanding my software and embedded systems capabilities to bridge hardware expertise with embedded development, hardware–software integration, and validation workflows. I bring a methodical, safety-focused approach to problem-solving and thrive in high-reliability, regulated engineering environments such as aerospace and advanced electronics.
 
 ### 🔧 Tech Stack
 **Hardware & Test Tools**  
